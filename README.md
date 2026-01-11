@@ -1,1 +1,3 @@
-# 1-Machine-Learning_Capstone
+# 1-Machine-Learning Capstone
+
+## Machine Learning Capstone Project Readme
